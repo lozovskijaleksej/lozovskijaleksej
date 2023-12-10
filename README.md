@@ -46,8 +46,8 @@ What can I do: <br>
 ✅ API Integrations<br>
 
 Certificates<br>
-<p><a href="https://www.hackerrank.com/certificates/7d83e0709f6d">🏆 JavaScript (Basic) Certificate</a></p>
-<p><a href="https://www.hackerrank.com/certificates/60b23eb8341f">🏆 JavaScript (Intermediate) Certificate</a></p>
-<p><a href="https://www.hackerrank.com/certificates/ec8266e09eba">🏆 Problem Solving</a></p>
+<a href="https://www.hackerrank.com/certificates/7d83e0709f6d">🏆 JavaScript (Basic) Certificate</a><br>
+<a href="https://www.hackerrank.com/certificates/60b23eb8341f">🏆 JavaScript (Intermediate) Certificate</a><br>
+<a href="https://www.hackerrank.com/certificates/ec8266e09eba">🏆 Problem Solving</a><br>
 
 Thanks for your time!
