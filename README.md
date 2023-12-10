@@ -27,9 +27,8 @@ Always ready for you. Please contact me!
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-jira-282222.png?f=webp"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-zoho-282840.png"></code>
 
-What can I do: 
-
-✅ HTML5
+What can I do: <br>
+✅ HTML5<br>
 ✅ CSS3
 ✅ Javascript
 ✅ jQuery
@@ -46,8 +45,7 @@ What can I do:
 ✅ Node.Js
 ✅ API Integrations
 
-Certificates
-
+Certificates<br>
 <a href="https://www.hackerrank.com/certificates/7d83e0709f6d">🏆 JavaScript (Basic) Certificate</a>
 <a href="https://www.hackerrank.com/certificates/60b23eb8341f">🏆 JavaScript (Intermediate) Certificate</a>
 <a href="https://www.hackerrank.com/certificates/ec8266e09eba">🏆 Problem Solving</a>
