@@ -29,25 +29,25 @@ Always ready for you. Please contact me!
 
 What can I do: <br>
 ✅ HTML5<br>
-✅ CSS3
-✅ Javascript
-✅ jQuery
-✅ Liquid
-✅ JSON
-✅ Shopify
-✅ Shopify Templates
-✅ Shopify Theme Customization
-✅ Shopify Theme Development
-✅ Shopify Apps Development
-✅ Shopify SEO
-✅ Code Optimization
-✅ WordPress
-✅ Node.Js
-✅ API Integrations
+✅ CSS3<br>
+✅ Javascript<br>
+✅ jQuery<br>
+✅ Liquid<br>
+✅ JSON<br>
+✅ Shopify<br>
+✅ Shopify Templates<br>
+✅ Shopify Theme Customization<br>
+✅ Shopify Theme Development<br>
+✅ Shopify Apps Development<br>
+✅ Shopify SEO<br>
+✅ Code Optimization<br>
+✅ WordPress<br>
+✅ Node.Js<br>
+✅ API Integrations<br>
 
 Certificates<br>
-<a href="https://www.hackerrank.com/certificates/7d83e0709f6d">🏆 JavaScript (Basic) Certificate</a>
-<a href="https://www.hackerrank.com/certificates/60b23eb8341f">🏆 JavaScript (Intermediate) Certificate</a>
-<a href="https://www.hackerrank.com/certificates/ec8266e09eba">🏆 Problem Solving</a>
+<p><a href="https://www.hackerrank.com/certificates/7d83e0709f6d">🏆 JavaScript (Basic) Certificate</a></p>
+<p><a href="https://www.hackerrank.com/certificates/60b23eb8341f">🏆 JavaScript (Intermediate) Certificate</a></p>
+<p><a href="https://www.hackerrank.com/certificates/ec8266e09eba">🏆 Problem Solving</a></p>
 
 Thanks for your time!
