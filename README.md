@@ -1,4 +1,4 @@
-Hi, I'm Oleksii Lozovskyi, a Senior Shopify Developer from Ukraine. 
+Hi, I'm a Senior Shopify Developer from Ukraine. 
 I've been working with Shopify (Liquid, Shopify Plus, Shopify Apps, Shopify Theme, Shopify Templates) for 5 years.
 I am always 💪confident to understand perfectly every aspect of these platforms and popular plugins/apps.
 
